@@ -1,0 +1,25 @@
+{
+  "name": "jdrbot",
+  "version": "1.0.0",
+  "description": "JDRBot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HowWhat42/JDRBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HowWhat42/JDRBot/issues"
+  },
+  "homepage": "https://github.com/HowWhat42/JDRBot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.7"
+  }
+}
